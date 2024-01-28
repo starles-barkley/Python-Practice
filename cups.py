@@ -1,3 +1,6 @@
+#This is code to calculate the price of coffee.
+#It also demonstrates type casting in python.
+
 price = input("What is the price of a cup of coffee? ")
 cups = input("How many cups do you want? ")
 total = float(price) * int(cups)
